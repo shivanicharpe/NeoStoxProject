@@ -21,6 +21,26 @@ public class Base
 		
 		driver.manage().window().maximize();
 		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		Reporter.log("Launching Browser ", true);
 
 		Utility.wait(driver, 1000);
