@@ -35,6 +35,16 @@ public class Utility
 	{
 		File Srouce = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
 
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		File destination = new  File("D:\\TakeScreenshotUsingSelenium"+fileName+".jpg");
 		
 		Reporter.log("Taking Screenshot ",true);
