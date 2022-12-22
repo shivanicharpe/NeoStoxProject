@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Launching Browser ]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 1000 miils]]>
+    </line>
+    <line>
+      <![CDATA[Entering Data From Excel ]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 2000 miils]]>
+    </line>
+    <line>
+      <![CDATA[Entering Mobile Number ]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 1000 miils]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on sign in Button ]]>
+    </line>
+    <line>
+      <![CDATA[Entering Data From Excel ]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 9000 miils]]>
+    </line>
+    <line>
+      <![CDATA[Entring Password ]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 1500 miils]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on submit button ]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 1500 miils]]>
+    </line>
+    <line>
+      <![CDATA[Scrolling to Close]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 1000 miils]]>
+    </line>
+    <line>
+      <![CDATA[Handling Popup....]]>
+    </line>
+    <line>
+      <![CDATA[Getting User Name ]]>
+    </line>
+    <line>
+      <![CDATA[Entering Data From Excel ]]>
+    </line>
+    <line>
+      <![CDATA[Getting User Name ]]>
+    </line>
+    <line>
+      <![CDATA[Taking Screenshot ]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 1000 miils]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 1000 miils]]>
+    </line>
+    <line>
+      <![CDATA[Logging out fro neoStox]]>
+    </line>
+    <line>
+      <![CDATA[Entering Data From Excel ]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 2000 miils]]>
+    </line>
+    <line>
+      <![CDATA[Entering Mobile Number ]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 1000 miils]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on sign in Button ]]>
+    </line>
+    <line>
+      <![CDATA[Entering Data From Excel ]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 9000 miils]]>
+    </line>
+    <line>
+      <![CDATA[Entring Password ]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 1500 miils]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on submit button ]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 15000 miils]]>
+    </line>
+    <line>
+      <![CDATA[There is no Popup present....]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 1000 miils]]>
+    </line>
+    <line>
+      <![CDATA[Getting actual fund]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 1000 miils]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 1000 miils]]>
+    </line>
+    <line>
+      <![CDATA[Logging out fro neoStox]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 8000 miils]]>
+    </line>
+    <line>
+      <![CDATA[Closing Browser ]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-12-19T22:11:40 EST" name="Default suite" finished-at="2022-12-19T22:13:37 EST" duration-ms="117312">
+    <groups>
+    </groups>
+    <test started-at="2022-12-19T22:11:40 EST" name="Default test" finished-at="2022-12-19T22:13:37 EST" duration-ms="117312">
+      <class name="NeoStoxTeseCses.ValidateNeoStoxUserNameAndBalance">
+        <test-method is-config="true" signature="launchNeoStox()[pri:0, instance:NeoStoxTeseCses.ValidateNeoStoxUserNameAndBalance@7c729a55]" started-at="2022-12-19T22:11:40 EST" name="launchNeoStox" finished-at="2022-12-19T22:11:55 EST" duration-ms="15228" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching Browser ]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 1000 miils]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchNeoStox -->
+        <test-method is-config="true" signature="loginToNeoStox()[pri:0, instance:NeoStoxTeseCses.ValidateNeoStoxUserNameAndBalance@7c729a55]" started-at="2022-12-19T22:11:55 EST" name="loginToNeoStox" finished-at="2022-12-19T22:13:04 EST" duration-ms="69086" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering Data From Excel ]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 2000 miils]]>
+            </line>
+            <line>
+              <![CDATA[Entering Mobile Number ]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 1000 miils]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on sign in Button ]]>
+            </line>
+            <line>
+              <![CDATA[Entering Data From Excel ]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 9000 miils]]>
+            </line>
+            <line>
+              <![CDATA[Entring Password ]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 1500 miils]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on submit button ]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 1500 miils]]>
+            </line>
+            <line>
+              <![CDATA[Scrolling to Close]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 1000 miils]]>
+            </line>
+            <line>
+              <![CDATA[Handling Popup....]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginToNeoStox -->
+        <test-method signature="ValidateUserName()[pri:0, instance:NeoStoxTeseCses.ValidateNeoStoxUserNameAndBalance@7c729a55]" started-at="2022-12-19T22:13:04 EST" name="ValidateUserName" finished-at="2022-12-19T22:13:05 EST" duration-ms="495" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Getting User Name ]]>
+            </line>
+            <line>
+              <![CDATA[Entering Data From Excel ]]>
+            </line>
+            <line>
+              <![CDATA[Getting User Name ]]>
+            </line>
+            <line>
+              <![CDATA[Taking Screenshot ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidateUserName -->
+        <test-method is-config="true" signature="LogoutFromNeoStox()[pri:0, instance:NeoStoxTeseCses.ValidateNeoStoxUserNameAndBalance@7c729a55]" started-at="2022-12-19T22:13:05 EST" name="LogoutFromNeoStox" finished-at="2022-12-19T22:13:05 EST" duration-ms="407" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Waiting for 1000 miils]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 1000 miils]]>
+            </line>
+            <line>
+              <![CDATA[Logging out fro neoStox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LogoutFromNeoStox -->
+        <test-method is-config="true" signature="loginToNeoStox()[pri:0, instance:NeoStoxTeseCses.ValidateNeoStoxUserNameAndBalance@7c729a55]" started-at="2022-12-19T22:13:05 EST" name="loginToNeoStox" finished-at="2022-12-19T22:13:35 EST" duration-ms="30244" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering Data From Excel ]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 2000 miils]]>
+            </line>
+            <line>
+              <![CDATA[Entering Mobile Number ]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 1000 miils]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on sign in Button ]]>
+            </line>
+            <line>
+              <![CDATA[Entering Data From Excel ]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 9000 miils]]>
+            </line>
+            <line>
+              <![CDATA[Entring Password ]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 1500 miils]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on submit button ]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 15000 miils]]>
+            </line>
+            <line>
+              <![CDATA[There is no Popup present....]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginToNeoStox -->
+        <test-method signature="checkBalance()[pri:0, instance:NeoStoxTeseCses.ValidateNeoStoxUserNameAndBalance@7c729a55]" started-at="2022-12-19T22:13:35 EST" name="checkBalance" finished-at="2022-12-19T22:13:35 EST" duration-ms="60" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Waiting for 1000 miils]]>
+            </line>
+            <line>
+              <![CDATA[Getting actual fund]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkBalance -->
+        <test-method is-config="true" signature="LogoutFromNeoStox()[pri:0, instance:NeoStoxTeseCses.ValidateNeoStoxUserNameAndBalance@7c729a55]" started-at="2022-12-19T22:13:35 EST" name="LogoutFromNeoStox" finished-at="2022-12-19T22:13:36 EST" duration-ms="420" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Waiting for 1000 miils]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 1000 miils]]>
+            </line>
+            <line>
+              <![CDATA[Logging out fro neoStox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LogoutFromNeoStox -->
+        <test-method is-config="true" signature="closingBrowser()[pri:0, instance:NeoStoxTeseCses.ValidateNeoStoxUserNameAndBalance@7c729a55]" started-at="2022-12-19T22:13:36 EST" name="closingBrowser" finished-at="2022-12-19T22:13:37 EST" duration-ms="1292" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Waiting for 8000 miils]]>
+            </line>
+            <line>
+              <![CDATA[Closing Browser ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closingBrowser -->
+      </class> <!-- NeoStoxTeseCses.ValidateNeoStoxUserNameAndBalance -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
